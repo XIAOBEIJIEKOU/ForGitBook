@@ -1,6 +1,6 @@
 #### **BUILD A WEBSITE FOR THE GIRL THAT I LOVE , BUT I CAN NOT TELL HER**
 
-####  
+#### 
 
 #### Tips：注意两个Settings：一个是对于单个子库的Settings，一个是对于账户全局的Personal Settings
 
@@ -20,9 +20,9 @@
 
 #### ![](/assets/NNWY_04.png)
 
-#### ![](/assets/NNWY_04.png)**这样，你可以在本地操作远程的GitHub库了！！！要怎么操作呢？**
+#### **这样，你可以在本地操作远程的GitHub库了！！！要怎么操作呢？**
 
-#### **3.当你安装完msysGit之后，点击鼠标右键你会发现，出事了！多了两个Git Bash Here（命令行）和Git **
+#### **3.当你安装完msysGit之后，点击鼠标右键你会发现，果然多了两个Git Bash Here（命令行）和Git **
 
 #### **GUI Here（图形界面），这个就是你与远程连接的工具在本地选择一个文件夹（随意位置）当做你的本地**
 
