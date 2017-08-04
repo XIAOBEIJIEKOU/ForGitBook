@@ -12,4 +12,6 @@
   * [局域网文件共享](windows/ju-yu-wang-wen-jian-gong-xiang.md)
 * [Html](html.md)
   * [网页添加视频](html/tu-pian-ju-zhong-xian-shi.md)
+* [Linux](linux.md)
+  * [XShell](linux/xshell.md)
 
