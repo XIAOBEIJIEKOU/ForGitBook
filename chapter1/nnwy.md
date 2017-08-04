@@ -1,14 +1,14 @@
-## **BUILD A WEBSITE FOR THE GIRL THAT I LOVE , BUT I CAN NOT TELL HER**
+#### **BUILD A WEBSITE FOR THE GIRL THAT I LOVE , BUT I CAN NOT TELL HER**
 
----
+#### ** **
 
-![](/assets/NNWY_01.png)![](/assets/NNWY_03.png)
+#### ![](/assets/NNWY_01.png)![](/assets/NNWY_03.png)
 
 #### **1.注册GitHub并且设置邮箱，下载msysGit工具**
 
 #### **2.需要将GitHub和msysGit做关联，保证msysGit可以连接到你的GitHub库                **
 
-#### `ssh-keygen -t rsa -C "xxx@xx.com"`
+#### **`ssh-keygen -t rsa -C "xxx@xx.com"`**
 
 #### ** **![](/assets/NNWY_02.png)
 
@@ -26,7 +26,11 @@
 
 #### **库之后，右击，我比较喜欢Git Bash**
 
-![](/assets/NNWY_05.png)![](/assets/NNWY_06.png)
+#### ![](/assets/NNWY_05.png)![](/assets/NNWY_06.png)
 
-**等待下载 ing.....**
+#### **等待下载 ing.....**
+
+#### **就好比你本地的根文件夹就是相当于GitHub总库，然后clone的每一个子库对应于根文件夹下面的每一个子文件夹**
+
+
 
