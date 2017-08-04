@@ -2,7 +2,9 @@
 
 ---
 
-> 我的第一个网站是用GitHub提供的免费page主机，将 `nnwy.online` CNAME 到我的 GitHub.io 上
+> #### 我的第一个网站是用GitHub提供的免费page主机，将 `nnwy.online` CNAME 到我的 GitHub.io 上，
+>
+> #### 然后在我的repertory github.io
 
 
 
