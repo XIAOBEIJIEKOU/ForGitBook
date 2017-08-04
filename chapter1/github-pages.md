@@ -10,11 +10,11 @@
 
 #### ![](/assets/Pages_03.png)
 
-#### Tip：www设置不成功，不够装逼！
+#### 2.进入repository的Settings进行设置Pages
 
 #### ![](/assets/Pages_04.png)
 
-#### Tip：我这边设置成www还没有成功，好气啊！！！不够装逼![](/assets/Pages_04.png)
+#### Tip：我这边设置成www还没有成功，好气啊！！！不够装逼
 
 
 
