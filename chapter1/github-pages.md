@@ -8,7 +8,9 @@
 
 ![](/assets/Pages_01.png)
 
-#### ![](/assets/Pages_02.png)Tip：我设置成www直接GG...
+###### ![](/assets/Pages_02.png)
+
+#### **Tip：我设置成www直接GG...**
 
 #### ![](/assets/Pages_03.png)
 
