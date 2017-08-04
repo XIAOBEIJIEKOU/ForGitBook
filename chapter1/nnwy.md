@@ -1,6 +1,8 @@
 #### **BUILD A WEBSITE FOR THE GIRL THAT I LOVE , BUT I CAN NOT TELL HER**
 
-#### ** **
+---
+
+Tips：注意区分两个Settings：一个是对于单个子库的Settings，一个是对于账户全局的Personal Settings
 
 #### ![](/assets/NNWY_01.png)![](/assets/NNWY_03.png)
 
@@ -14,7 +16,7 @@
 
 #### **输入后连续要按三个回车，就会在默认的文件夹下生成keys文件。（一般都是在**
 
-#### **c://users/Administrator/.ssh/下有个叫id-rsa.pub的文件），找到id-rsa.pub文件，将里面的内容复制**
+#### `C:`**`/users/Administrator/.ssh/`下有个叫id-rsa.pub的文件），找到id-rsa.pub文件，将里面的内容复制**
 
 #### ![](/assets/NNWY_04.png)
 
@@ -34,7 +36,9 @@
 
 #### **库对应于根文件夹下面的每一个子文件夹**
 
-#### 下载完成之后会在本地生成一个子库的文件夹，打开之后里面会有一个.git文件
+#### 下载完成之后会在本地生成一个子库的文件夹，打开之后里面会有一个.git文件。要注意在这个文件夹下
+
+再打开Git Bash
 
 #### ![](/assets/NNWY_07.png)
 
@@ -48,9 +52,15 @@
 
 #### git 可以添加多个文件（文件夹，HTML，text）到暂存区，中间用空格隔开
 
-#### 
+**`git commit -m   "description"`**
 
-#### 
+description表示的是你本次提交的说明
 
+**`git push`**
 
+将本地的操作全部推到GitHub上
+
+![](/assets/NNWY_08.png)
+
+呼~GG思密达
 
