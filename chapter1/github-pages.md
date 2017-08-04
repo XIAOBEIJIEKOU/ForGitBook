@@ -1,8 +1,12 @@
-### Using a custom domain with GitHub Pages 
+### Using a custom domain with GitHub Pages
 
 > 如果你在某云上买了一个域名又嫌弃某云的主机太贵的话，你不妨可以看看这篇
 
 ---
 
+#### [1.某云上购买域名之后，进入某云的域名控制台，进行域名解析](/ )
 
+![](/assets/Pages_01.png)![](/assets/Pages_02.png)
+
+![](/assets/Pages_01.png)![](/assets/Pages_02.png)![](/assets/Pages_03.png)![](/assets/Pages_04.png)
 
