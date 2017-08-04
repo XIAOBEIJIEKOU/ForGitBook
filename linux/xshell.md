@@ -1,4 +1,8 @@
-#### XShell 连接linux的时候要检查linux是否已经加载了ssh服务，默认是没有加载的！
+### XShell 连接Linux 调试
+
+---
+
+#### XShell 连接Linux的时候要检查linux是否已经加载了ssh服务，默认是没有加载的！
 
 #### 1.apt-get install openssh-server
 
