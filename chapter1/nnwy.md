@@ -1,8 +1,6 @@
 ### How to use msysGit to opreate GitHub?
 
-> 如何用msysGit工具从GitHub下载库，并且向库里添加文件夹（注：GitHub本身自带有uploadfiles功能，但是不可以上传文件
->
-> 夹，你总不想你的东西在库里面一览无遗吧？如果你不介意，请忽略这篇）
+> GitHub本身自带有uploadfiles功能，但是不可以上传文件夹，如果你不想你的东西在库里面一览无遗，你不妨看看这篇
 
 ---
 
