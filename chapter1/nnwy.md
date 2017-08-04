@@ -1,5 +1,11 @@
 #### **BUILD A WEBSITE FOR THE GIRL THAT I LOVE , BUT I CAN NOT TELL HER**
 
+---
+
+> ##### 如何用msysGit工具从GitHub下载库，并且向库里添加文件夹（注：GitHub本身自带有uploadfiles功能，但是不可以上传文件
+>
+> ##### 夹，你总不想你的东西在库里面一览无遗吧？如果你不介意，请忽略这篇）
+
 #### 
 
 #### Tips：注意两个Settings：一个是对于单个子库的Settings，一个是对于账户全局的Personal Settings
@@ -64,7 +70,7 @@
 
 #### ![](/assets/NNWY_08.png)
 
-#### 呼~GG思密达
+#### 呼~     GG思密达
 
 
 
