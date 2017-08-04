@@ -2,7 +2,7 @@
 
 #### 1.apt-get install openssh-server
 
-#### 2.还要启动/etc/init.d/ssh start
+#### 2.还要启动服务：/etc/init.d/ssh start
 
 #### 
 
