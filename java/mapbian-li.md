@@ -34,7 +34,7 @@
 
 #### 效率低,以后尽量少使用
 
-> #### Tip：keySet其实是遍历了2次，一次是转为iterator，一次就从hashmap中取出key所对于的value
+> #### Tip：keySet其实是遍历了2次，一次是转为iterator，一次是从hashmap中取出key所对于的value
 
 
 
