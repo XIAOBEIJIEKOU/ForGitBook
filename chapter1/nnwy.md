@@ -16,7 +16,7 @@ Tips：注意区分两个Settings：一个是对于单个子库的Settings，一
 
 #### **输入后连续要按三个回车，就会在默认的文件夹下生成keys文件。（一般都是在**
 
-#### `C:`**`/users/Administrator/.ssh/`下有个叫id-rsa.pub的文件），找到id-rsa.pub文件，将里面的内容复制**
+#### `C:/users/Administrator/.ssh/`**下有个叫id-rsa.pub的文件），找到`id-rsa.pub`文件，将里面的内容复制**
 
 #### ![](/assets/NNWY_04.png)
 
@@ -52,11 +52,11 @@ Tips：注意区分两个Settings：一个是对于单个子库的Settings，一
 
 #### git 可以添加多个文件（文件夹，HTML，text）到暂存区，中间用空格隔开
 
-**`git commit -m   "description"`**
+`git commit -m   "description"`
 
 description表示的是你本次提交的说明
 
-**`git push`**
+`git push`
 
 将本地的操作全部推到GitHub上
 
