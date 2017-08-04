@@ -9,7 +9,17 @@
 
    > #### Tip：This is a tip
 
-####    5.每一个页面上的出现代码，路径，文件名都必须使用code标记
+#### 5.每一个页面上的出现代码，路径，文件名都必须使用code标记
+
+```
+ www.nnwy.com
+
+ <div></div>
+
+ C://User/Adminstroter
+ 
+ ssh-keygen -t rsa -C "xxx@xx.com"
+```
 
 
 
