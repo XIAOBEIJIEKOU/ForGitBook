@@ -8,7 +8,5 @@
 
 2.需要将GitHub和msysGit做关联，保证msysGit可以连接到你的GitHub库
 
-**ssh-keygen -t rsa -C "xxx@xx.com"**
-
-
+**ssh-keygen -t rsa -C  "xxx@xx.com"**
 
