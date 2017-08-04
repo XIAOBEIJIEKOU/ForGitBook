@@ -18,29 +18,17 @@
 
 #### 第二种:
 
-#### \`Map map = new HashMap\(\);
+#### ```Map map = new HashMap();``
 
-\`
+#### ```Iterator iter = map.keySet().iterator();``
 
-#### \`Iterator iter = map.keySet\(\).iterator\(\);
+#### ```while (iter.hasNext()) {``
 
-\`
+#### ```    Object key = iter.next();``
 
-#### \`while \(iter.hasNext\(\)\) {
+#### ```    Object val = map.get(key);``
 
-\`
-
-#### \`    Object key = iter.next\(\);
-
-\`
-
-#### \`    Object val = map.get\(key\);
-
-\`
-
-#### \`}
-
-\`
+#### ```}``
 
 #### 效率低,以后尽量少使用
 
