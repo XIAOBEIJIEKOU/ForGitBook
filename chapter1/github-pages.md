@@ -32,7 +32,7 @@
 
 ![](/assets/Pages_08.png)
 
-> #### `www.nnwy.online`可以访问，但是地址栏还是会显示`nnwy.online`
+> #### Tip：`www.nnwy.online`可以访问，但是地址栏还是会显示`nnwy.online`
 
 
 
