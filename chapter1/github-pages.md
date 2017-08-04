@@ -1,7 +1,7 @@
 ### Using a custom domain with GitHub Pages
 
 > 如果你在某云上买了一个域名又嫌弃某云的主机太贵的话，你不妨可以看看这篇
->
+
 > 一个account只能有一个page域名并且可以通过another domain来访问。必须以账户的username来制作，而且必须是在master branch下的repository才能被访问到（xiaobeijiekou.github.io\(github pages\)）
 
 ---
