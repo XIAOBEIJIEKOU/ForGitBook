@@ -8,7 +8,7 @@
 
 #### **2.需要将GitHub和msysGit做关联，保证msysGit可以连接到你的GitHub库                **
 
-#### **`ssh-keygen -t rsa -C "xxx@xx.com"`**
+#### `ssh-keygen -t rsa -C "xxx@xx.com"`
 
 #### ** **![](/assets/NNWY_02.png)
 
@@ -30,7 +30,9 @@
 
 #### **等待下载 ing.....**
 
-#### **就好比你本地的根文件夹就是相当于GitHub总库，然后clone的每一个子库对应于根文件夹下面的每一个子文件夹**
+#### **就好比你本地的根文件夹就是相当于GitHub总库，然后clone的每一个子库对应于根文件夹下面的每一个**
+
+#### **子文件夹**
 
 
 
