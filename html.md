@@ -1,8 +1,8 @@
-# Html
+# Web Developer
 
 ---
 
-> All about Html things.
+> All about Html & css & javascript & jQuery things.
 
 
 
