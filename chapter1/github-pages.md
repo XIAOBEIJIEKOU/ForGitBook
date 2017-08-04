@@ -10,7 +10,7 @@
 
 ###### ![](/assets/Pages_02.png)
 
-> #### **Tip：我设置成www直接GG...**
+> #### **Tip：我把@设置成www直接GG...**
 
 #### ![](/assets/Pages_03.png)
 
