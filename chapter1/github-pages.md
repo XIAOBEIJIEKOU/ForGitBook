@@ -6,9 +6,15 @@
 
 #### [1.某云上购买域名之后，进入某云的域名控制台，进行域名解析](/ )
 
-![](/assets/Pages_01.png)![](/assets/Pages_02.png)
+![](/assets/Pages_01.png)
 
-#### Tip：我这边设置成www还没有成功，好气啊！！！不够装逼
+#### ![](/assets/Pages_03.png)
 
-![](/assets/Pages_01.png)![](/assets/Pages_02.png)![](/assets/Pages_03.png)![](/assets/Pages_04.png)
+#### Tip：www设置不成功，不够装逼！
+
+#### Tip：我这边设置成www还没有成功，好气啊！！！不够装逼![](/assets/Pages_04.png)
+
+#### Tip：我这边设置成www还没有成功，好气啊！！！不够装逼![](/assets/Pages_04.png)
+
+
 
