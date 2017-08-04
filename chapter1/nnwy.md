@@ -6,9 +6,9 @@
 
 1.注册GitHub并且设置邮箱，下载msysGit工具之后
 
-2.需要将GitHub和msysGit做关联，保证msysGit可以连接到你的GitHub库        
+2.需要将GitHub和msysGit做关联，保证msysGit可以连接到你的GitHub库
 
-**ssh-keygen -t rsa -C  "xxx@xx.com"**![](/assets/NNWY_02.png)
+### **ssh-keygen -t rsa -C  "xxx@xx.com"**![](/assets/NNWY_02.png)
 
 
 
