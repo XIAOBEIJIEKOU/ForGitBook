@@ -20,7 +20,7 @@
 
 #### 输入的凭证时 是 ：要连接的机子的账户和密码  若不知道可以win+L查看
 
-#### cmd-&gt;ipconfig
+#### 服务机IP ：cmd-&gt;ipconfig-&gt;ipv4
 
 #### mstsc-&gt;ipv4
 
