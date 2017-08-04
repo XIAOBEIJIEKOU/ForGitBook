@@ -22,3 +22,11 @@
 
 ![](/assets/Pages_06.png)
 
+#### 不行！气不过
+
+#### [3.设置二级域名为www.nnwy.online](/ )
+
+#### ![](/assets/Pages_07.png)
+
+
+
