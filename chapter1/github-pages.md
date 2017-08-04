@@ -2,6 +2,8 @@
 
 > 如果你在某云上买了一个域名又嫌弃某云的主机太贵的话，你不妨可以看看这篇
 
+> xiaobeijiekou.github.io\(github pages\)一个account只能有一个page域名并且可以通过another domain来访问。必须以账户的username来制作，必须在master branch下的repository才能被访问到
+
 ---
 
 #### [1.某云上购买域名之后，进入某云的域名控制台，进行域名解析](/ )
