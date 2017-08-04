@@ -6,4 +6,5 @@
   * [First Website](chapter1/first-website.md)
     * [GitHub Pages](chapter1/github-pages.md)
     * [msysGit & GitHub](chapter1/nnwy.md)
+* [Windows](windows.md)
 
