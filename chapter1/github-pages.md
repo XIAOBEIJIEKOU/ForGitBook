@@ -8,6 +8,8 @@
 
 ![](/assets/Pages_01.png)
 
+![](/assets/Pages_02.png)
+
 #### ![](/assets/Pages_03.png)
 
 #### [2.进入repository的Settings进行设置Pages](/ )
@@ -17,8 +19,4 @@
 #### Tip：我这边设置成www还没有成功，好气啊！！！不够装逼
 
 ![](/assets/Pages_06.png)
-
-
-
-
 
