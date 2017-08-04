@@ -44,9 +44,9 @@
 
 在字库文件夹下：
 
-#### **`git add xxx`**
+#### `git add xxx xxx.html xxx.txt xxx.xx`
 
-xxx表示的是文件夹，html，txt...
+git 可以添加多个文件（文件夹，HTML，text）到暂存区，中间用空格隔开
 
 #### 
 
