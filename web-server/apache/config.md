@@ -1,6 +1,6 @@
-2016-12-19
+### Apache的配置
 
-Apache的配置：
+---
 
 &lt;httpd.conf&gt;documentRoot的路径为默认路径，是localhost的访问首页。
 
@@ -8,17 +8,21 @@ Apache的配置：
 
 &lt;VirtualHost \*:80&gt;
 
-	DocumentRoot "C:/xampp/htdocs"
+```
+DocumentRoot "C:/xampp/htdocs"
+```
 
 &lt;/VirtualHost&gt;
 
 &lt;VirtualHost \*:80&gt;
 
-	ServerName www.qishiwohenaini.comqishiwohenaini
+```
+ServerName www.qishiwohenaini.comqishiwohenaini
 
-	ServerAlias qishiwohenaini
+ServerAlias qishiwohenaini
 
-	DocumentRoot "C:/xampp/htdocs"
+DocumentRoot "C:/xampp/htdocs"
+```
 
 &lt;/VirtualHost&gt;
 
@@ -33,4 +37,8 @@ DW CS6站点的设置：
 服务器设置，服务器文件夹和站点文件夹相同，是服务器访问的文件夹
 
 重点是web url设置，localhost访问的文件夹是默认根目录，所以要localhost/Demo
+
+
+
+2016-12-19
 
