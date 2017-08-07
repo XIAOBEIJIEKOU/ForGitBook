@@ -46,4 +46,5 @@
     * [中文](error/zhong-wen.md)
   * XML
     * [PHP解析XML](phpjie-xi-xml.md)
+    * [PHP生成XML](phpsheng-cheng-xml.md)
 
