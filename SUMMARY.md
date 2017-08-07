@@ -23,6 +23,7 @@
     * [install LAMP](linux/install-lamp.md)
     * [开启root用户登入](linux/kai-qi-root-yong-hu-deng-ru.md)
   * [BIgData & Hadoop](linux/bigdata-and-hadoop.md)
+    * [Hadoop](linux/bigdata-and-hadoop/hadoop.md)
 * [Java](java.md)
   * [map遍历](java/mapbian-li.md)
   * [Chinese Character](java/chinese-character.md)
