@@ -22,4 +22,7 @@
   * [Apache](web-server/apache.md)
     * [config](web-server/apache/config.md)
   * Tomcat
+* PHP
+  * [Error](error.md)
+    * [中文](error/zhong-wen.md)
 
