@@ -19,6 +19,8 @@
 * [Java](java.md)
   * [map遍历](java/mapbian-li.md)
   * [Chinese Character](java/chinese-character.md)
+  * [Exception](java/exception.md)
+    * [ClassNotFound](java/exception/classnotfound.md)
 * [Web Server](web-server.md)
   * [Apache](web-server/apache.md)
     * [config](web-server/apache/config.md)
