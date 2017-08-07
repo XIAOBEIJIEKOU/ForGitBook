@@ -16,6 +16,8 @@
   * [Html添加视频](html/tu-pian-ju-zhong-xian-shi.md)
 * [Linux](linux.md)
   * [XShell](linux/xshell.md)
+  * [Kylin](linux/kylin.md)
+    * apache2无法获得php7
 * [Java](java.md)
   * [map遍历](java/mapbian-li.md)
   * [Chinese Character](java/chinese-character.md)
