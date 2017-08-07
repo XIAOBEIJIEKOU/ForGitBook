@@ -44,4 +44,6 @@
 * PHP
   * [Error](error.md)
     * [中文](error/zhong-wen.md)
+  * XML
+    * [PHP解析XML](phpjie-xi-xml.md)
 
