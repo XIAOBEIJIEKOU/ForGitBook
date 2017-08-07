@@ -1,138 +1,136 @@
-package com.dao;
+`package com.dao;`
 
+`import java.sql.*;`
 
+`public class DBconnector {`
 
-import java.sql.\*;
+```
+   //静态变量，final是因为一个项目里面不需要改变连接数据库的参数，更加准确的定义
 
+   private final static String driverName="com.mysql.jdbc.Driver";
 
+   private final static String driverUrl=
 
-public class DBconnector {
+   //防止中文乱码，与数据库交互的时候要设置字符编码
 
-	   //静态变量，final是因为一个项目里面不需要改变连接数据库的参数，更加准确的定义
+              "jdbc:mysql://127.0.0.1/student\_management?useUnicode=true&characterEncoding=utf8";
 
-	   private final static String driverName="com.mysql.jdbc.Driver";
+   private final static String username = "root";
 
-	   private final static String driverUrl=
+   private final static String password="";
 
-	   //防止中文乱码，与数据库交互的时候要设置字符编码
 
-	              "jdbc:mysql://127.0.0.1/student\_management?useUnicode=true&characterEncoding=utf8";
 
-	   private final static String username = "root";
+   //静态方法，便于在main中测试
 
-	   private final static String password="";
+   public static Connection getConnection\(\) throws SQLException{
 
-	   
 
-	   //静态方法，便于在main中测试
 
-	   public static Connection getConnection\(\) throws SQLException{
+        try {
 
-	
+            Class.forName\(driverName\);
 
-			try {
+        } catch \(ClassNotFoundException e\) {
 
-				Class.forName\(driverName\);
+            // TODO 自动生成的 catch 块
 
-			} catch \(ClassNotFoundException e\) {
+            e.printStackTrace\(\);
 
-				// TODO 自动生成的 catch 块
+            System.out.println\("Cannot find driver!"\);
 
-				e.printStackTrace\(\);
+        }
 
-				System.out.println\("Cannot find driver!"\);
+        Connection con =DriverManager.getConnection\(driverUrl, username, password\);
 
-			}
+        return con;
 
-			Connection con =DriverManager.getConnection\(driverUrl, username, password\);
+   }
 
-			return con;
 
-	   }
 
-	   
+   //静态方法，便于在main中测试
 
-	   //静态方法，便于在main中测试
+   public static ResultSet getSelect\(String sql\) throws SQLException{
 
-	   public static ResultSet getSelect\(String sql\) throws SQLException{
+       Connection con=getConnection\(\);
 
-		   Connection con=getConnection\(\);
+       Statement stmt=con.createStatement\(\);
 
-		   Statement stmt=con.createStatement\(\);
+       ResultSet rs=stmt.executeQuery\(sql\);
 
-		   ResultSet rs=stmt.executeQuery\(sql\);
+       /\*
 
-		   /\*
+       单例模式关闭之后就无法访问了
 
-		   单例模式关闭之后就无法访问了
+       \*/
 
-		   \*/
+       //rs.close\(\);
 
-		   //rs.close\(\);
+       //stmt.close\(\);
 
-		   //stmt.close\(\);
+       //con.close\(\);
 
-		   //con.close\(\);
+       return rs; 
 
-		   return rs; 
+   }
 
-	   }
 
-	   
 
-	   /\*\*public List&lt;Staff&gt; page\(int pagenum\) throws SQLException{
+   /\*\*public List&lt;Staff&gt; page\(int pagenum\) throws SQLException{
 
-		   List&lt;Staff&gt; list= new ArrayList&lt;Staff&gt;\(\);
+       List&lt;Staff&gt; list= new ArrayList&lt;Staff&gt;\(\);
 
-		   Connection con = getConnection\(\);
+       Connection con = getConnection\(\);
 
-		   String sql="select \* from test2 limit ?,?";
+       String sql="select \* from test2 limit ?,?";
 
-		   PreparedStatement ps = con.prepareStatement\(sql\);
+       PreparedStatement ps = con.prepareStatement\(sql\);
 
-		   ps.setInt\(1, \(pagenum-1\)\*2\);
+       ps.setInt\(1, \(pagenum-1\)\*2\);
 
-	
 
-	   }\*/
 
-	   public static void main\(String arg\[\]\){
+   }\*/
 
-		   try {
+   public static void main\(String arg\[\]\){
 
-			//特别注意要注意字符编码！当被编译的Java代码中有中文特别注意
+       try {
 
-			String sql="select \* from student where StuID='142008080225'";
+        //特别注意要注意字符编码！当被编译的Java代码中有中文特别注意
 
-			//测试一下是否可以执行方法
+        String sql="select \* from student where StuID='142008080225'";
 
-			ResultSet rs= DBconnector.getSelect\(sql\);
+        //测试一下是否可以执行方法
 
-			if\(rs.next\(\)\){
+        ResultSet rs= DBconnector.getSelect\(sql\);
 
-			    //注意返回的结果集是按照数据库设计的属性名
+        if\(rs.next\(\)\){
 
-				//rs.getString\(String columnLabel\);
+            //注意返回的结果集是按照数据库设计的属性名
 
-				//rs.getString\(int columnIndex\);
+            //rs.getString\(String columnLabel\);
 
-				System.out.println\(rs.getString\(2\)\);	
+            //rs.getString\(int columnIndex\);
 
-			}
+            System.out.println\(rs.getString\(2\)\);    
 
-		} catch \(SQLException e\) {
+        }
 
-			// TODO 自动生成的 catch 块
+    } catch \(SQLException e\) {
 
-			e.printStackTrace\(\);
+        // TODO 自动生成的 catch 块
 
-		}
+        e.printStackTrace\(\);
 
-		   
+    }
 
-	   }
 
-	}
+
+   }
+
+}
+```
 
 
 
