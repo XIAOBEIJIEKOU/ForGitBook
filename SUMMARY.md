@@ -18,6 +18,7 @@
   * [XShell](linux/xshell.md)
 * [Java](java.md)
   * [map遍历](java/mapbian-li.md)
+  * [Chinese Character](java/chinese-character.md)
 * [Web Server](web-server.md)
   * [Apache](web-server/apache.md)
     * [config](web-server/apache/config.md)
