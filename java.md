@@ -2,7 +2,7 @@
 
 ---
 
-> All about java things .
+All about java things .
 
 
 

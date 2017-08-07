@@ -2,7 +2,7 @@
 
 ---
 
-> All about windows opreation .
+All about windows opreation .
 
 
 

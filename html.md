@@ -2,7 +2,7 @@
 
 ---
 
-> All about Html & css & javascript & jQuery things.
+All about Html & css & javascript & jQuery things.
 
 
 

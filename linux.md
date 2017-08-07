@@ -2,7 +2,7 @@
 
 ---
 
-> All about Linux.
+All about Linux.
 
 
 
