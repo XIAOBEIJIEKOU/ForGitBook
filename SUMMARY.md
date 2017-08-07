@@ -20,6 +20,7 @@
     * apache2无法获得php7
     * [E无法获得锁 varlibdpkglock](linux/ewu-fa-huo-de-suo-varlibdpkglock.md)
     * [ifconfig获得的IP地址](linux/ifconfighuo-de-de-ip-di-zhi.md)
+    * [install LAMP](linux/install-lamp.md)
 * [Java](java.md)
   * [map遍历](java/mapbian-li.md)
   * [Chinese Character](java/chinese-character.md)
