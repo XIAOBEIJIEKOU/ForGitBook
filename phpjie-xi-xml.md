@@ -1,3 +1,5 @@
+#### 待解析XML：
+
 &lt;?xml version="1.0" encoding="utf-8"?&gt;
 
 &lt;menu&gt;
@@ -192,31 +194,31 @@
 
 &lt;/menu&gt;
 
-  
-
 #### PHP解析代码：
 
 &lt;?php
 
-	  $xml=simplexml\_load\_file\('../etc/menu.xml'\);
+```
+  $xml=simplexml\_load\_file\('../etc/menu.xml'\);
 
-	  foreach\($xml-&gt;children\(\) as $items\){
+  foreach\($xml-&gt;children\(\) as $items\){
 
-		  echo $items-&gt;attributes\(\)-&gt;name.'&lt;br&gt;';
+      echo $items-&gt;attributes\(\)-&gt;name.'&lt;br&gt;';
 
-		  foreach\($items-&gt;children\(\) as $taste\){
+      foreach\($items-&gt;children\(\) as $taste\){
 
-			  echo $taste-&gt;name.'&nbsp;&nbsp;&nbsp;';
+          echo $taste-&gt;name.'&nbsp;&nbsp;&nbsp;';
 
-			  echo $taste-&gt;large.'&nbsp;&nbsp;&nbsp;';
+          echo $taste-&gt;large.'&nbsp;&nbsp;&nbsp;';
 
-			  echo $taste-&gt;small.'&nbsp;&nbsp;&nbsp;';
+          echo $taste-&gt;small.'&nbsp;&nbsp;&nbsp;';
 
-			  echo '&lt;br&gt;';
+          echo '&lt;br&gt;';
 
-			  }
+          }
 
-		  }
+      }
+```
 
 ?&gt;
 
