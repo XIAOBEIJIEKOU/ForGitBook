@@ -18,6 +18,7 @@
   * [XShell](linux/xshell.md)
   * [Kylin](linux/kylin.md)
     * apache2无法获得php7
+    * [E无法获得锁 varlibdpkglock](linux/ewu-fa-huo-de-suo-varlibdpkglock.md)
 * [Java](java.md)
   * [map遍历](java/mapbian-li.md)
   * [Chinese Character](java/chinese-character.md)
