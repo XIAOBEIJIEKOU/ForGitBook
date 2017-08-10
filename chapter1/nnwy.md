@@ -64,11 +64,11 @@
 
 #### git 可以添加多个文件（文件夹，HTML，text）到暂存区，中间用空格隔开
 
-`git rm xxx`
+#### `git rm xxx`
 
-git rm -r xxx
+#### `git rm -r xxx`
 
-git删除文件和文件夹，中间空格隔开
+#### git删除文件和文件夹，中间空格隔开
 
 #### `git commit -m   "description"`
 
