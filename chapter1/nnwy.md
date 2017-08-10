@@ -56,7 +56,7 @@
 
 ![](/assets/gitdelete.png)
 
-> #### Tip：这个push是使用git init 然后git pull &lt;url&gt; 的操作，如果是用git clone应该直接push就可以
+> #### TIP：这个push是使用git init 然后git pull &lt;url&gt; 的操作，如果是用git clone应该直接push就可以
 
 ![](/assets/gitfirstpush.png)
 
