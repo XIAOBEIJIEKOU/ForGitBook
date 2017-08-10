@@ -52,6 +52,14 @@
 
 #### 在字库文件夹下：
 
+![](/assets/gitadd.png)
+
+![](/assets/gitdelete.png)
+
+这个push是使用git init 然后git pull &lt;url&gt; 的操作，如果是用git clone应该直接push就可以
+
+这个![](/assets/gitfirstpush.png)
+
 #### `git add xxx xxx.html xxx.txt xxx.xx`
 
 #### git 可以添加多个文件（文件夹，HTML，text）到暂存区，中间用空格隔开
