@@ -4,7 +4,11 @@
 
 #### 有介绍到局域网内文件共享的例子，但是出现了小问题，所以再补一篇另外介绍文件共享的方法
 
-![](/assets/ftp_01.png)![](/assets/FTP_03.png)![](/assets/FTP_04.png)
+![](/assets/FTP_01.png)
+
+![](/assets/FTP_02.png)
+
+![](/assets/FTP_03.png)![](/assets/FTP_04.png)
 
 ![](/assets/FTP_05.png)
 
